@@ -251,6 +251,7 @@
 				TargetAttributes = {
 					E1839DB41BF79335002212C6 = {
 						CreatedOnToolsVersion = 7.0.1;
+						DevelopmentTeam = X74A69AXHU;
 						LastSwiftMigration = 0800;
 					};
 				};
@@ -463,10 +464,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = X74A69AXHU;
 				INFOPLIST_FILE = EZSwiftExtensions/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.gbf.EZSwiftExtensions;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gbf.EZSwiftExtensionswhy;
 				PRODUCT_NAME = EZSwiftExtensionsExample;
 				SWIFT_VERSION = 5.0;
 			};
@@ -476,10 +478,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = X74A69AXHU;
 				INFOPLIST_FILE = EZSwiftExtensions/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.gbf.EZSwiftExtensions;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gbf.EZSwiftExtensionswhy;
 				PRODUCT_NAME = EZSwiftExtensionsExample;
 				SWIFT_VERSION = 5.0;
 			};
