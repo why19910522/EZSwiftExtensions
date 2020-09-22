@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import CoreGraphics
 
 precedencegroup PowerPrecedence { higherThan: MultiplicationPrecedence }
 infix operator ** : PowerPrecedence

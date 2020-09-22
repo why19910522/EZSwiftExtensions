@@ -29,7 +29,6 @@
 		5AF5777C1EEE52DC00B1C277 /* BlockPinch.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DC87031C0ED34300972D0A /* BlockPinch.swift */; };
 		5AF5777D1EEE52DC00B1C277 /* BlockSwipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DC87041C0ED34300972D0A /* BlockSwipe.swift */; };
 		5AF5777E1EEE52DC00B1C277 /* BlockTap.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DC87051C0ED34300972D0A /* BlockTap.swift */; };
-		5AF5777F1EEE52DC00B1C277 /* BlockWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DC87061C0ED34300972D0A /* BlockWebView.swift */; };
 		5AF577801EEE52DC00B1C277 /* BoolExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DC87071C0ED34300972D0A /* BoolExtensions.swift */; };
 		5AF577811EEE52DC00B1C277 /* BundleExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = E19AC0E51DCBA25100908905 /* BundleExtensions.swift */; };
 		5AF577821EEE52DC00B1C277 /* CollectionsExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A02399C1E6D345C00C235B8 /* CollectionsExtension.swift */; };
@@ -151,7 +150,6 @@
 		B5DC87201C0ED34300972D0A /* BlockPinch.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DC87031C0ED34300972D0A /* BlockPinch.swift */; };
 		B5DC87211C0ED34300972D0A /* BlockSwipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DC87041C0ED34300972D0A /* BlockSwipe.swift */; };
 		B5DC87221C0ED34300972D0A /* BlockTap.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DC87051C0ED34300972D0A /* BlockTap.swift */; };
-		B5DC87231C0ED34300972D0A /* BlockWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DC87061C0ED34300972D0A /* BlockWebView.swift */; };
 		B5DC87241C0ED34300972D0A /* BoolExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DC87071C0ED34300972D0A /* BoolExtensions.swift */; };
 		B5DC87251C0ED34300972D0A /* CGFloatExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DC87081C0ED34300972D0A /* CGFloatExtensions.swift */; };
 		B5DC87261C0ED34300972D0A /* CGRectExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DC87091C0ED34300972D0A /* CGRectExtensions.swift */; };
@@ -185,7 +183,6 @@
 		CD4D30BC1CEEAFD900CB53BC /* BlockSwipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DC87041C0ED34300972D0A /* BlockSwipe.swift */; };
 		CD4D30BE1CEEAFD900CB53BC /* UISwitchExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1587FB11CCA420400A0B071 /* UISwitchExtensions.swift */; };
 		CD4D30BF1CEEAFD900CB53BC /* BlockTap.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DC87051C0ED34300972D0A /* BlockTap.swift */; };
-		CD4D30C11CEEAFD900CB53BC /* BlockWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DC87061C0ED34300972D0A /* BlockWebView.swift */; };
 		CD4D30C21CEEAFD900CB53BC /* BoolExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DC87071C0ED34300972D0A /* BoolExtensions.swift */; };
 		CD4D30C31CEEAFD900CB53BC /* CGFloatExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DC87081C0ED34300972D0A /* CGFloatExtensions.swift */; };
 		CD4D30C51CEEAFD900CB53BC /* CGRectExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DC87091C0ED34300972D0A /* CGRectExtensions.swift */; };
@@ -815,7 +812,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0820;
-				LastUpgradeCheck = 0800;
+				LastUpgradeCheck = 1170;
 				ORGANIZATIONNAME = "Goktug Yilmaz";
 				TargetAttributes = {
 					5AF577601EEE527500B1C277 = {
@@ -950,7 +947,6 @@
 				5AF5777C1EEE52DC00B1C277 /* BlockPinch.swift in Sources */,
 				5AF5777D1EEE52DC00B1C277 /* BlockSwipe.swift in Sources */,
 				5AF5777E1EEE52DC00B1C277 /* BlockTap.swift in Sources */,
-				5AF5777F1EEE52DC00B1C277 /* BlockWebView.swift in Sources */,
 				5AF577801EEE52DC00B1C277 /* BoolExtensions.swift in Sources */,
 				5AF577811EEE52DC00B1C277 /* BundleExtensions.swift in Sources */,
 				5AF577821EEE52DC00B1C277 /* CollectionsExtension.swift in Sources */,
@@ -1083,7 +1079,6 @@
 				8889A85B1D20E8D500635002 /* UITextFieldExtensions.swift in Sources */,
 				E1587FB21CCA420400A0B071 /* UISwitchExtensions.swift in Sources */,
 				B5DC87221C0ED34300972D0A /* BlockTap.swift in Sources */,
-				B5DC87231C0ED34300972D0A /* BlockWebView.swift in Sources */,
 				B5DC87241C0ED34300972D0A /* BoolExtensions.swift in Sources */,
 				B5DC87251C0ED34300972D0A /* CGFloatExtensions.swift in Sources */,
 				5A3292F01DC5BA6F0078F7F3 /* CGPointExtensions.swift in Sources */,
@@ -1200,7 +1195,6 @@
 				CD4D30BE1CEEAFD900CB53BC /* UISwitchExtensions.swift in Sources */,
 				E10A79391D6F4E3400735549 /* UITextFieldExtensions.swift in Sources */,
 				CD4D30BF1CEEAFD900CB53BC /* BlockTap.swift in Sources */,
-				CD4D30C11CEEAFD900CB53BC /* BlockWebView.swift in Sources */,
 				CD4D30C21CEEAFD900CB53BC /* BoolExtensions.swift in Sources */,
 				CD4D30C31CEEAFD900CB53BC /* CGFloatExtensions.swift in Sources */,
 				CD4D30C51CEEAFD900CB53BC /* CGRectExtensions.swift in Sources */,
@@ -1401,18 +1395,27 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -1450,18 +1453,27 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -1492,7 +1504,7 @@
 		B5DC86BE1C0ED06700972D0A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
@@ -1519,7 +1531,7 @@
 		B5DC86BF1C0ED06700972D0A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;

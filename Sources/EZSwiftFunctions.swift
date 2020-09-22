@@ -8,7 +8,12 @@
 
 //TODO: others standart video, gif
 
-import Foundation
+
+#if os(iOS) || os(tvOS)
+import UIKit
+#elseif os(macOS)
+import Cocoa
+#endif
 
 public struct ez {
     /// EZSE: Returns app's name
